@@ -1,0 +1,14 @@
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\bin\Debug\net7.0\StudentsCardsLibrary.exe
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\bin\Debug\net7.0\StudentsCardsLibrary.deps.json
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\bin\Debug\net7.0\StudentsCardsLibrary.runtimeconfig.json
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\bin\Debug\net7.0\StudentsCardsLibrary.dll
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\bin\Debug\net7.0\StudentsCardsLibrary.pdb
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.AssemblyInfoInputs.cache
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.AssemblyInfo.cs
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.dll
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\refint\StudentsCardsLibrary.dll
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.pdb
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\StudentsCardsLibrary.genruntimeconfig.cache
+C:\Users\NemNok\StudentsCardsLibrary\TaskOne\obj\Debug\net7.0\ref\StudentsCardsLibrary.dll
