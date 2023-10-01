@@ -13,16 +13,19 @@ var AddRussian = new JsonSerializerOptions
     WriteIndented = true
 };
 
-
-
-string UserLibraryPath = "UserLibrary.json";
+string UserLibraryPath = Directory.GetCurrentDirectory();
+UserLibraryPath = UserLibraryPath.Replace("\\bin\\Debug\\net7.0", "");
+UserLibraryPath = UserLibraryPath + "\\UserLibrary.json";
 UserLibraryManager ULManager = new UserLibraryManager(UserLibraryPath);
 UserLibrary User = ULManager.InitializateUserLibrary();
+
 
 string[] UserCardCreateTemplate = { "Введите фамилию студента: ", "Введите имя студента: ", "Введите отчество студента: ", "Введите факультет студента: ", "Введите специальность студента: ", "Введите группу студента: ", "Введите курс студента: ", "Введите город проживания студента: ", "Введите E-mail студента: ", "Введите номер телефона студента: " };//Массив-шаблон, используемый при создании или редактировании карточки студента
 string[] UserCard = { "Фамилия: ", "Имя: ", "Отчество: ", "Факультет: ", "Специальность: ", "Группа: ", "Курс: ", "Город проживания: ", "E-mail: ", "Номер телефона: " };//Массив-шаблон, создающий структуру файла карточки студента при её создании или редактировании
 
 int UserNumbers = User.Numbers();
+
+
 
 void StartPage()
 {
