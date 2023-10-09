@@ -53,7 +53,7 @@ public class UserLibraryManager
             ExistingUser.LastName = EditedUser.LastName;
             ExistingUser.Faculty = EditedUser.Faculty;
             ExistingUser.Speciality = EditedUser.Speciality;
-            ExistingUser.Group = EditedUser.Course;
+            ExistingUser.Group = EditedUser.Group;
             ExistingUser.Course = EditedUser.Course;
             ExistingUser.City = EditedUser.City;
             ExistingUser.Email = EditedUser.Email;
